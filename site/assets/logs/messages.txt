@@ -1,0 +1,6 @@
+2017-08-21 07:22:34	admin	http://localhost/pw/admin/setup/template/removeFields	Deleted field "postOrDesignComment" data in 0 row(s) from 0 page(s). [page-by-page]
+2017-08-21 07:31:25	admin	http://localhost/pw/admin/setup/template/removeFields	Deleted field "images" data in 0 row(s) from 0 page(s). [page-by-page]
+2017-08-21 18:17:56	mazen-mohamed	http://webbers.xyz/dashboard/profile/	Profile saved - email
+2017-08-21 18:19:32	mazen-mohamed	http://webbers.xyz/dashboard/profile/	Profile saved - pass
+2017-08-21 18:30:46	ebram-nimr	http://webbers.xyz/dashboard/profile/	Profile saved - pass, email
+2017-09-10 07:11:09	admin	http://webbers.xyz/dashboard/setup/template/removeFields	Deleted field "body" data in 0 row(s) from 0 page(s). [page-by-page]
